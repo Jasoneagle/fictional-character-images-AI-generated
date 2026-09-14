@@ -21,4 +21,8 @@ Character images must be grounded in the requested written source. Unspecified f
 
 ## Complete file manifest
 
-[`REPOSITORY-MANIFEST.json`](REPOSITORY-MANIFEST.json) is the machine-readable inventory of every tracked file, including Git blob identity, byte count, and canonical top-level category. The manifest excludes itself to avoid an impossible self-hash.
+[`REPOSITORY-MANIFEST.json`](REPOSITORY-MANIFEST.json) is the compact machine-readable entry point for the complete tracked-file inventory. Its ordered `REPOSITORY-MANIFEST.parts/` files contain every content path, Git blob identity, byte count, and canonical top-level category. The generated manifest package excludes itself to avoid circular hashes.
+
+## Repository relationship index
+
+[`REPOSITORY-RELATIONSHIPS.md`](REPOSITORY-RELATIONSHIPS.md) provides the verified bidirectional cross-repository routes while preserving one canonical owner per subject.

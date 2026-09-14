@@ -1,48 +1,25 @@
 {
-  "schema": "repository-complete-file-manifest/v1",
+  "schema": "repository-complete-file-manifest/v2",
   "repository": "Jasoneagle/fictional-character-images-AI-generated",
   "branch": "main",
-  "content_parent_head": "cb00f238bc90a467f9da4a1a3458837283a3ab32",
-  "generated_local": "2026-09-14T13:26:02.673812-04:00",
-  "generated_utc": "2026-09-14T17:26:02.673812+00:00",
-  "self_exclusion": "REPOSITORY-MANIFEST.json is excluded because a file cannot contain its own final Git blob hash.",
-  "tracked_file_denominator_excluding_self": 5,
-  "tracked_bytes_excluding_self": 13743,
-  "files": [
+  "content_parent_head": "ea704016ad5a70db3502c7c9bf9c227dcf542197",
+  "generated_local": "2026-09-14T15:14:32.068167-04:00",
+  "generated_utc": "2026-09-14T19:14:32.068167+00:00",
+  "self_exclusion": "REPOSITORY-MANIFEST.json and REPOSITORY-MANIFEST.parts/ are the generated inventory package and are excluded from content records to avoid circular hashes. The summary indexes every ordered part and verifies each part hash.",
+  "tracked_content_file_denominator_excluding_manifest_package": 6,
+  "tracked_content_bytes_excluding_manifest_package": 16158,
+  "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path.",
+  "part_count": 1,
+  "parts": [
     {
-      "path": "ARTIFACT-INDEX.md",
-      "mode": "100644",
-      "blob_sha": "1e6062858913e67f4eadfa2f638f61e50bc0a984",
-      "bytes": 2620,
-      "canonical_category": "repository-root"
-    },
-    {
-      "path": "CHATGPT-INDEX.md",
-      "mode": "100644",
-      "blob_sha": "0e3ccd5f9b97bf8f399d450fb7ea71f8b4ababc4",
-      "bytes": 2115,
-      "canonical_category": "repository-root"
-    },
-    {
-      "path": "README.md",
-      "mode": "100644",
-      "blob_sha": "544ee9ebd1e9a4f22f7ad91a9ac7d664e5a0db40",
-      "bytes": 121,
-      "canonical_category": "repository-root"
-    },
-    {
-      "path": "the-expanse/characters/clarissa-mao/clarissa-mao-babylons-ashes-novel-only-preview.jpg",
-      "mode": "100644",
-      "blob_sha": "04cda012c0d0f1e5c9416c953db92355516c8251",
-      "bytes": 6969,
-      "canonical_category": "the-expanse"
-    },
-    {
-      "path": "the-expanse/README.md",
-      "mode": "100644",
-      "blob_sha": "d8039646d3cfa3baa947547539fd87911e2b3778",
-      "bytes": 1918,
-      "canonical_category": "the-expanse"
+      "path": "REPOSITORY-MANIFEST.parts/PART-0001.jsonl",
+      "first_record": 1,
+      "last_record": 6,
+      "records": 6,
+      "bytes": 971,
+      "sha256": "918552b1cc8fbf2734e7f8713d5bf6145e2480146bdae4e63b204a0f7131face",
+      "first_path": "ARTIFACT-INDEX.md",
+      "last_path": "the-expanse/README.md"
     }
   ]
 }
