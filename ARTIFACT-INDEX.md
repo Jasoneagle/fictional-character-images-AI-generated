@@ -3,11 +3,13 @@
 **Status:** ACTIVE / EXHAUSTIVE INDEX  
 **Audit baseline tree:** `dcf80bd8a084b56cc5c644c5bb371b03481a0431`  
 **Recursive baseline:** complete (`truncated:false`)
+**Reconstruction verification:** 2026-09-14 00:47:31 EDT (UTC-04:00); UTC 2026-09-14T04:47:31Z — 5/5 tracked paths routed.
 
 Every tracked path in the audited tree is indexed below. This is a public output repository; private production provenance and unrelated project canon must not be exposed here.
 
 ## Root
 
+- `ARTIFACT-INDEX.md` — this exhaustive tracked-path and ownership-routing index.
 - `CHATGPT-INDEX.md` — compact AI startup and public-output rules.
 - `README.md` — repository overview.
 
