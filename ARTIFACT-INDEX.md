@@ -34,3 +34,7 @@ The complete audited tree contains no project-local handoff/checkpoint subtree. 
 ## Verification
 
 This index enumerates the complete audited recursive tree. Refresh after any new character/project/output is added and update the cross-repository coverage ledger.
+
+## Complete file manifest
+
+[`REPOSITORY-MANIFEST.json`](REPOSITORY-MANIFEST.json) is the machine-readable inventory of every tracked file, including Git blob identity, byte count, and canonical top-level category. The manifest excludes itself to avoid an impossible self-hash.

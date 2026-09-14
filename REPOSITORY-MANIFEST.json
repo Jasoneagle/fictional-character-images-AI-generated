@@ -1,0 +1,48 @@
+{
+  "schema": "repository-complete-file-manifest/v1",
+  "repository": "Jasoneagle/fictional-character-images-AI-generated",
+  "branch": "main",
+  "content_parent_head": "cb00f238bc90a467f9da4a1a3458837283a3ab32",
+  "generated_local": "2026-09-14T13:26:02.673812-04:00",
+  "generated_utc": "2026-09-14T17:26:02.673812+00:00",
+  "self_exclusion": "REPOSITORY-MANIFEST.json is excluded because a file cannot contain its own final Git blob hash.",
+  "tracked_file_denominator_excluding_self": 5,
+  "tracked_bytes_excluding_self": 13743,
+  "files": [
+    {
+      "path": "ARTIFACT-INDEX.md",
+      "mode": "100644",
+      "blob_sha": "1e6062858913e67f4eadfa2f638f61e50bc0a984",
+      "bytes": 2620,
+      "canonical_category": "repository-root"
+    },
+    {
+      "path": "CHATGPT-INDEX.md",
+      "mode": "100644",
+      "blob_sha": "0e3ccd5f9b97bf8f399d450fb7ea71f8b4ababc4",
+      "bytes": 2115,
+      "canonical_category": "repository-root"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "blob_sha": "544ee9ebd1e9a4f22f7ad91a9ac7d664e5a0db40",
+      "bytes": 121,
+      "canonical_category": "repository-root"
+    },
+    {
+      "path": "the-expanse/characters/clarissa-mao/clarissa-mao-babylons-ashes-novel-only-preview.jpg",
+      "mode": "100644",
+      "blob_sha": "04cda012c0d0f1e5c9416c953db92355516c8251",
+      "bytes": 6969,
+      "canonical_category": "the-expanse"
+    },
+    {
+      "path": "the-expanse/README.md",
+      "mode": "100644",
+      "blob_sha": "d8039646d3cfa3baa947547539fd87911e2b3778",
+      "bytes": 1918,
+      "canonical_category": "the-expanse"
+    }
+  ]
+}

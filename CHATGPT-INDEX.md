@@ -18,3 +18,7 @@ The audited complete recursive tree contains no project-local handoff/checkpoint
 ## Working rule
 
 Character images must be grounded in the requested written source. Unspecified features should remain neutral rather than borrowing from screen adaptations. Generated images rejected by the user are not canonical assets. Cross-reference an owning project instead of duplicating its complete canon.
+
+## Complete file manifest
+
+[`REPOSITORY-MANIFEST.json`](REPOSITORY-MANIFEST.json) is the machine-readable inventory of every tracked file, including Git blob identity, byte count, and canonical top-level category. The manifest excludes itself to avoid an impossible self-hash.
