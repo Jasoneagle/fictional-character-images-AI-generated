@@ -3,8 +3,8 @@
   "repository": "Jasoneagle/fictional-character-images-AI-generated",
   "branch": "main",
   "content_parent_head": "a9d12fa13bf7d800cecf626d9518322372d7e419",
-  "generated_local": "2026-10-05T21:43:42.2163403-04:00",
-  "generated_utc": "2026-10-06T01:43:42.2163403Z",
+  "generated_local": "2026-10-05T21:45:22.5735555-04:00",
+  "generated_utc": "2026-10-06T01:45:22.5735555Z",
   "ai_write_attribution": {
     "system_provider": "Codex / OpenAI",
     "product_interface": "Codex desktop app",
@@ -13,13 +13,13 @@
     "chat_title": "unknown to the writing environment",
     "execution_environment": "user's Windows workstation; private path omitted",
     "authority": "direct user instruction to publish the approved crew-uniform concept",
-    "write_time_local": "2026-10-05 21:41:13 -04:00 (America/New_York)",
-    "write_time_utc": "2026-10-06 01:41:13Z"
+    "write_time_local": "2026-10-05 21:45:22 -04:00 (America/New_York)",
+    "write_time_utc": "2026-10-06 01:45:22Z"
   },
   "self_exclusion": "REPOSITORY-MANIFEST.json and REPOSITORY-MANIFEST.parts/ are the generated inventory package and are excluded from content records to avoid circular hashes. The summary indexes every ordered part and verifies each part hash.",
   "tracked_content_file_denominator_excluding_manifest_package": 9,
-  "tracked_content_bytes_excluding_manifest_package": 1918570.0,
-  "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path. Each record includes persistent AI-write attribution.",
+  "tracked_content_bytes_excluding_manifest_package": 1918416,
+  "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path. Each manifest record identifies the AI system that wrote the record without claiming authorship of the indexed file.",
   "part_count": 1,
   "parts": [
     {
@@ -27,8 +27,8 @@
       "first_record": 1,
       "last_record": 9,
       "records": 9,
-      "bytes": 3955,
-      "sha256": "f291d9994d02c893345782ed1e47b56fd887d18f701e51519995c0d7f8a76736",
+      "bytes": 4180,
+      "sha256": "7c9c42a731e2aa5504e31de89a7b8c3c5fa779e6038f6edf60b55509afe218da",
       "first_path": "ARTIFACT-INDEX.md",
       "last_path": "webseries/README.md"
     }
