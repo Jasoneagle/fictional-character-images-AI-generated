@@ -3,8 +3,8 @@
   "repository": "Jasoneagle/fictional-character-images-AI-generated",
   "branch": "main",
   "content_parent_head": "fb47c7f46cd98c12c522debb727ade63867a36d6",
-  "generated_local": "2026-10-05T22:11:12.6871899-04:00",
-  "generated_utc": "2026-10-06T02:11:12.6871899Z",
+  "generated_local": "2026-10-05T22:12:21.6493612-04:00",
+  "generated_utc": "2026-10-06T02:12:21.6493612Z",
   "ai_write_attribution": {
     "system_provider": "Codex / OpenAI",
     "product_interface": "Codex desktop app",
@@ -13,8 +13,8 @@
     "chat_title": "unknown to the writing environment",
     "execution_environment": "user's Windows workstation; private path omitted",
     "authority": "direct user instruction to approve and save all current uniform concepts",
-    "write_time_local": "2026-10-05 22:11:12 -04:00 (America/New_York)",
-    "write_time_utc": "2026-10-06 02:11:12Z"
+    "write_time_local": "2026-10-05 22:12:21 -04:00 (America/New_York)",
+    "write_time_utc": "2026-10-06 02:12:21Z"
   },
   "self_exclusion": "REPOSITORY-MANIFEST.json and REPOSITORY-MANIFEST.parts/ are the generated inventory package and are excluded from content records to avoid circular hashes. The summary indexes every ordered part and verifies each part hash.",
   "tracked_content_file_denominator_excluding_manifest_package": 13,
@@ -27,8 +27,8 @@
       "first_record": 1,
       "last_record": 13,
       "records": 13,
-      "bytes": 6193,
-      "sha256": "fd5e5a9b7e26b503eb05e9cca36f16601fb81b47796137d27495280f90ffc40f",
+      "bytes": 6180,
+      "sha256": "bf1abee4e18a8e6c402d3e091adb3aa5f08b136902982c7e1685359d190039db",
       "first_path": "ARTIFACT-INDEX.md",
       "last_path": "webseries/README.md"
     }
