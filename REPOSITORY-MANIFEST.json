@@ -2,24 +2,35 @@
   "schema": "repository-complete-file-manifest/v2",
   "repository": "Jasoneagle/fictional-character-images-AI-generated",
   "branch": "main",
-  "content_parent_head": "ea704016ad5a70db3502c7c9bf9c227dcf542197",
-  "generated_local": "2026-09-14T15:14:32.068167-04:00",
-  "generated_utc": "2026-09-14T19:14:32.068167+00:00",
+  "content_parent_head": "a9d12fa13bf7d800cecf626d9518322372d7e419",
+  "generated_local": "2026-10-05T21:43:42.2163403-04:00",
+  "generated_utc": "2026-10-06T01:43:42.2163403Z",
+  "ai_write_attribution": {
+    "system_provider": "Codex / OpenAI",
+    "product_interface": "Codex desktop app",
+    "model": "GPT-5 (reported by the system; not independently verified)",
+    "task_session_identity": "withheld from public repository for privacy; retained in private continuity records",
+    "chat_title": "unknown to the writing environment",
+    "execution_environment": "user's Windows workstation; private path omitted",
+    "authority": "direct user instruction to publish the approved crew-uniform concept",
+    "write_time_local": "2026-10-05 21:41:13 -04:00 (America/New_York)",
+    "write_time_utc": "2026-10-06 01:41:13Z"
+  },
   "self_exclusion": "REPOSITORY-MANIFEST.json and REPOSITORY-MANIFEST.parts/ are the generated inventory package and are excluded from content records to avoid circular hashes. The summary indexes every ordered part and verifies each part hash.",
-  "tracked_content_file_denominator_excluding_manifest_package": 6,
-  "tracked_content_bytes_excluding_manifest_package": 16158,
-  "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path.",
+  "tracked_content_file_denominator_excluding_manifest_package": 9,
+  "tracked_content_bytes_excluding_manifest_package": 1918570.0,
+  "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path. Each record includes persistent AI-write attribution.",
   "part_count": 1,
   "parts": [
     {
       "path": "REPOSITORY-MANIFEST.parts/PART-0001.jsonl",
       "first_record": 1,
-      "last_record": 6,
-      "records": 6,
-      "bytes": 971,
-      "sha256": "918552b1cc8fbf2734e7f8713d5bf6145e2480146bdae4e63b204a0f7131face",
+      "last_record": 9,
+      "records": 9,
+      "bytes": 3955,
+      "sha256": "f291d9994d02c893345782ed1e47b56fd887d18f701e51519995c0d7f8a76736",
       "first_path": "ARTIFACT-INDEX.md",
-      "last_path": "the-expanse/README.md"
+      "last_path": "webseries/README.md"
     }
   ]
 }
