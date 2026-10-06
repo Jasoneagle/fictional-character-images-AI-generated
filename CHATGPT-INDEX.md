@@ -30,4 +30,4 @@ Character images must be grounded in the requested written source. Unspecified f
 
 ## AI update attribution
 
-The 2026-10-05 `webseries/` routing addition was written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of the approved crew-uniform concept. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 21:41:13 -04:00 (America/New_York); 2026-10-06 01:41:13Z.
+The 2026-10-05 `webseries/` routing and approved-output additions were written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of the approved crew uniform, environmental suit, and Gunny personal-tank armor. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 22:08:37 -04:00 (America/New_York); 2026-10-06 02:08:37Z.

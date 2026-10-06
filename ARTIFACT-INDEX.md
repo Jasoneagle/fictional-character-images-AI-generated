@@ -25,6 +25,10 @@ The audited tree contains the `the-expanse/characters/` and `clarissa-mao/` dire
 - `webseries/README.md` — public-output scope and canon boundary for the original webseries concepts.
 - `webseries/crew-uniform/README.md` — approved crew-uniform concept record, public-safe provenance, file hash, and AI-system attribution.
 - `webseries/crew-uniform/crew-uniform-photorealistic-concept.png` — user-approved standard crew duty-uniform concept.
+- `webseries/environmental-suit/README.md` — approved environmental-suit concept record, public-safe provenance, file hash, and AI-system attribution.
+- `webseries/environmental-suit/environmental-suit-armored-photorealistic-concept.png` — user-approved streamlined sealed environmental suit and light-armor concept.
+- `webseries/gunny-personal-tank-power-armor/README.md` — approved Gunny personal-tank armor record, public-safe story boundary, file hash, and AI-system attribution.
+- `webseries/gunny-personal-tank-power-armor/gunny-career-personal-tank-power-armor-photorealistic-concept.png` — user-approved career-long custom armor for Gunny with fully fictional rank, service, and company markings.
 
 ## Handoff/checkpoint coverage
 
@@ -51,4 +55,4 @@ This index enumerates the complete audited recursive tree. Refresh after any new
 
 ## AI update attribution
 
-The 2026-10-05 webseries artifact entries were written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of the approved crew-uniform concept. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 21:41:13 -04:00 (America/New_York); 2026-10-06 01:41:13Z.
+The 2026-10-05 webseries artifact entries were written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of all three approved uniform concepts. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 22:08:37 -04:00 (America/New_York); 2026-10-06 02:08:37Z.
