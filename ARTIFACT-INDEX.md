@@ -20,6 +20,12 @@ Every tracked path in the audited tree is indexed below. This is a public output
 
 The audited tree contains the `the-expanse/characters/` and `clarissa-mao/` directories solely to organize that tracked output. Generated images rejected by the user are not canonical merely because a file exists; the project README and current decisions govern acceptance.
 
+## Original webseries project
+
+- `webseries/README.md` — public-output scope and canon boundary for the original webseries concepts.
+- `webseries/crew-uniform/README.md` — approved crew-uniform concept record, public-safe provenance, file hash, and AI-system attribution.
+- `webseries/crew-uniform/crew-uniform-photorealistic-concept.png` — user-approved standard crew duty-uniform concept.
+
 ## Handoff/checkpoint coverage
 
 The complete audited tree contains no project-local handoff/checkpoint subtree. Historical generation context, source discussion and any private production evidence remain in `Jasoneagle/conversation-archive` or another proper owner. Do not add private subject paths or archive-only provenance to this public repository.
@@ -42,3 +48,7 @@ This index enumerates the complete audited recursive tree. Refresh after any new
 ## Repository relationship index
 
 [`REPOSITORY-RELATIONSHIPS.md`](REPOSITORY-RELATIONSHIPS.md) provides the verified bidirectional cross-repository routes while preserving one canonical owner per subject.
+
+## AI update attribution
+
+The 2026-10-05 webseries artifact entries were written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of the approved crew-uniform concept. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 21:41:13 -04:00 (America/New_York); 2026-10-06 01:41:13Z.

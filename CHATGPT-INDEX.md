@@ -6,6 +6,7 @@ Public repository for AI-generated fictional-character image projects. Before pr
 
 1. Read [ARTIFACT-INDEX.md](ARTIFACT-INDEX.md) for exhaustive tracked-output, project-path, privacy and cross-repository routing.
 2. `the-expanse/` — novel-continuity character visualizations. Television-series likenesses, costumes, sets, continuity, and invented conspicuous character features are excluded unless explicitly requested.
+3. `webseries/` — original webseries visual concepts approved by the user for public output; current story and character canon remains with its eventual project owner.
 
 ## Cross-repository relationships
 
@@ -26,3 +27,7 @@ Character images must be grounded in the requested written source. Unspecified f
 ## Repository relationship index
 
 [`REPOSITORY-RELATIONSHIPS.md`](REPOSITORY-RELATIONSHIPS.md) provides the verified bidirectional cross-repository routes while preserving one canonical owner per subject.
+
+## AI update attribution
+
+The 2026-10-05 `webseries/` routing addition was written by Codex / OpenAI in the Codex desktop app, using GPT-5 as reported by the system (not independently verified), on the user's Windows workstation. The user directly authorized publication of the approved crew-uniform concept. Task/session identity is withheld from this public repository for privacy and retained in private continuity records. Written 2026-10-05 21:41:13 -04:00 (America/New_York); 2026-10-06 01:41:13Z.
