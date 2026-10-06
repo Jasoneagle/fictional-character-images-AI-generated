@@ -2,9 +2,9 @@
   "schema": "repository-complete-file-manifest/v2",
   "repository": "Jasoneagle/fictional-character-images-AI-generated",
   "branch": "main",
-  "content_parent_head": "a9d12fa13bf7d800cecf626d9518322372d7e419",
-  "generated_local": "2026-10-05T21:45:22.5735555-04:00",
-  "generated_utc": "2026-10-06T01:45:22.5735555Z",
+  "content_parent_head": "fb47c7f46cd98c12c522debb727ade63867a36d6",
+  "generated_local": "2026-10-05T22:11:12.6871899-04:00",
+  "generated_utc": "2026-10-06T02:11:12.6871899Z",
   "ai_write_attribution": {
     "system_provider": "Codex / OpenAI",
     "product_interface": "Codex desktop app",
@@ -12,23 +12,23 @@
     "task_session_identity": "withheld from public repository for privacy; retained in private continuity records",
     "chat_title": "unknown to the writing environment",
     "execution_environment": "user's Windows workstation; private path omitted",
-    "authority": "direct user instruction to publish the approved crew-uniform concept",
-    "write_time_local": "2026-10-05 21:45:22 -04:00 (America/New_York)",
-    "write_time_utc": "2026-10-06 01:45:22Z"
+    "authority": "direct user instruction to approve and save all current uniform concepts",
+    "write_time_local": "2026-10-05 22:11:12 -04:00 (America/New_York)",
+    "write_time_utc": "2026-10-06 02:11:12Z"
   },
   "self_exclusion": "REPOSITORY-MANIFEST.json and REPOSITORY-MANIFEST.parts/ are the generated inventory package and are excluded from content records to avoid circular hashes. The summary indexes every ordered part and verifies each part hash.",
-  "tracked_content_file_denominator_excluding_manifest_package": 9,
-  "tracked_content_bytes_excluding_manifest_package": 1918416,
+  "tracked_content_file_denominator_excluding_manifest_package": 13,
+  "tracked_content_bytes_excluding_manifest_package": 6620280,
   "record_format": "One compact UTF-8 JSON object per line, ordered case-insensitively by path. Each manifest record identifies the AI system that wrote the record without claiming authorship of the indexed file.",
   "part_count": 1,
   "parts": [
     {
       "path": "REPOSITORY-MANIFEST.parts/PART-0001.jsonl",
       "first_record": 1,
-      "last_record": 9,
-      "records": 9,
-      "bytes": 4180,
-      "sha256": "7c9c42a731e2aa5504e31de89a7b8c3c5fa779e6038f6edf60b55509afe218da",
+      "last_record": 13,
+      "records": 13,
+      "bytes": 6193,
+      "sha256": "fd5e5a9b7e26b503eb05e9cca36f16601fb81b47796137d27495280f90ffc40f",
       "first_path": "ARTIFACT-INDEX.md",
       "last_path": "webseries/README.md"
     }
