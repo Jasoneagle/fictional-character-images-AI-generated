@@ -2,7 +2,7 @@
 
 This folder contains original, AI-generated visual concepts approved by the user for public output.
 
-The current project title has not been supplied to this writing environment. This folder name is therefore a neutral routing label, not the webseries' canonical title. Story, setting, character, organization, and production canon remains with the project's eventual canonical owner; this public repository stores only suitable public visual outputs and compact public-safe records.
+The working title is RHYGAR. Private story, setting, character, organization, and production canon is owned by [`Jasoneagle/Web-Series`](https://github.com/Jasoneagle/Web-Series); this public repository stores only suitable public visual outputs and compact public-safe records. Public assets here link back to that owner and do not become competing canon.
 
 ## Current approved outputs
 

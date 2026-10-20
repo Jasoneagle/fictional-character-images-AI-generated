@@ -23,6 +23,7 @@ Every relationship below is listed in both repositories. The linked repository r
 | [`Jasoneagle/conversation-archive`](https://github.com/Jasoneagle/conversation-archive) | Historical evidence, handoffs, checkpoints, and source provenance. |
 | [`Jasoneagle/Global-Rules`](https://github.com/Jasoneagle/Global-Rules) | Shared governance, repository ownership, placement, and retrieval standards. |
 | [`Jasoneagle/offline-ai-media-asset-pipeline`](https://github.com/Jasoneagle/offline-ai-media-asset-pipeline) | Reusable offline media and asset processing architecture. |
+| [`Jasoneagle/Web-Series`](https://github.com/Jasoneagle/Web-Series) | Private original-webseries/RHYGAR story, character, continuity and production canon; this repository retains only approved public outputs. |
 
 ## Retrieval rule
 

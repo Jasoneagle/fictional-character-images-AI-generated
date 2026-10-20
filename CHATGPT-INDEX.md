@@ -6,7 +6,7 @@ Public repository for AI-generated fictional-character image projects. Before pr
 
 1. Read [ARTIFACT-INDEX.md](ARTIFACT-INDEX.md) for exhaustive tracked-output, project-path, privacy and cross-repository routing.
 2. `the-expanse/` — novel-continuity character visualizations. Television-series likenesses, costumes, sets, continuity, and invented conspicuous character features are excluded unless explicitly requested.
-3. `webseries/` — original webseries visual concepts approved by the user for public output; current story and character canon remains with its eventual project owner.
+3. `webseries/` — original webseries visual concepts approved by the user for public output; current story and character canon is owned by private [`Jasoneagle/Web-Series`](https://github.com/Jasoneagle/Web-Series).
 
 ## Cross-repository relationships
 

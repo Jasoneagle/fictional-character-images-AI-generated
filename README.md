@@ -5,7 +5,7 @@ Public, AI-generated visual concepts for fictional characters, costumes, and rel
 ## Projects
 
 - [`the-expanse/`](the-expanse/) — novel-continuity character visualizations.
-- [`webseries/`](webseries/) — original webseries character and costume concepts approved for public output.
+- [`webseries/`](webseries/) — original webseries character and costume concepts approved for public output; private story and character canon is owned by [`Jasoneagle/Web-Series`](https://github.com/Jasoneagle/Web-Series).
 
 ## AI update attribution
 
